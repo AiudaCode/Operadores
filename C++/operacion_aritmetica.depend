@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1489557839 source:c:\users\omarm\dropbox\codeblocks proyects\operacion_aritmetica\main.cpp
+	<iostream>
+	"OperadorAritmetico.h"
+
+1489557803 c:\users\omarm\dropbox\codeblocks proyects\operacion_aritmetica\include\operadoraritmetico.h
+
